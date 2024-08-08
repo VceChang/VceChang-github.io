@@ -1,1 +1,1 @@
-The main reference is the source code of the public academic website: https://jonbarron.info/.
+The main reference is the source code of the personal website: https://github.com/zyushun/zyushun.github.io\.
